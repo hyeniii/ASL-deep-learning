@@ -4,3 +4,5 @@
 *.zip
 *.pth
 *.pkl
+*data_tf
+*__pycache__
